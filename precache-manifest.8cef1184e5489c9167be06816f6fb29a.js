@@ -4,23 +4,23 @@ self.__precacheManifest = [
     "url": "/countries-and-cities/static/js/runtime~main.7b02603a.js"
   },
   {
-    "revision": "8fdbf06e7dce8885b824",
-    "url": "/countries-and-cities/static/js/main.8fdbf06e.chunk.js"
+    "revision": "70c42077a945e823aa45",
+    "url": "/countries-and-cities/static/js/main.70c42077.chunk.js"
   },
   {
-    "revision": "78412eec9668b578f4c5",
-    "url": "/countries-and-cities/static/js/1.78412eec.chunk.js"
+    "revision": "e48c8ef4bb1db9a1e0fb",
+    "url": "/countries-and-cities/static/js/1.e48c8ef4.chunk.js"
   },
   {
-    "revision": "8fdbf06e7dce8885b824",
+    "revision": "70c42077a945e823aa45",
     "url": "/countries-and-cities/static/css/main.336af5a0.chunk.css"
   },
   {
-    "revision": "78412eec9668b578f4c5",
+    "revision": "e48c8ef4bb1db9a1e0fb",
     "url": "/countries-and-cities/static/css/1.27814fa8.chunk.css"
   },
   {
-    "revision": "259265758086f5d8e13a7cdfbea36f12",
+    "revision": "e4ce8dc148df813357beda3f927e9d4a",
     "url": "/countries-and-cities/index.html"
   }
 ];
